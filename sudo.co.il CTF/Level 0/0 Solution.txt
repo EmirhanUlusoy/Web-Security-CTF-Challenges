@@ -1,0 +1,3 @@
+Very Simple
+
+Solution Code= <script>alert(1)</script>

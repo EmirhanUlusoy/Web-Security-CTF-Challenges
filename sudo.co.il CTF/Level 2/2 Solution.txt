@@ -1,0 +1,3 @@
+In this CTF, the ">" symbol is blocked, so to bypass it, we use "-". We successfully achieve this.
+
+Solution Code= "- onclick="alert(1)

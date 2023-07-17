@@ -1,0 +1,4 @@
+In this section, the parentheses () have been blocked, and we bypass them using ASCII characters. 
+Afterwards, instead of using the alert function, we achieve the same result by using prompt.
+
+Solution Code= "onclick="prompt&#40;1&#41;"

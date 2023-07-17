@@ -1,0 +1,3 @@
+In this part, what we need to do is to look at the source code and see that it is removing the input within the value="" using the > command, and then we inject our code.
+
+Solution Code= "><script>alert(1)</script>
