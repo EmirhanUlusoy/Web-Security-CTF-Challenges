@@ -1,0 +1,4 @@
+In this section, we are finding the hidden part and attempting to extract it from the value within the hidden element. 
+Since the double quote (") character is blocked, we use &#34 as its HTML entity. Then we inject our JavaScript code, and the result is successful.
+
+Solution Code= &#34><script>alert(document.domain)</script>

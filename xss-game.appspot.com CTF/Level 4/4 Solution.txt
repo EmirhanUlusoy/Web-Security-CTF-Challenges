@@ -1,0 +1,6 @@
+In this section, when we observed that the code blocks and the timer doesn't work when we add a single quote (') character. 
+By examining the network section, we can clearly see that. So, we took that part and added alert(') to it. 
+This time, the timer returned the command we wrote to us, indicating a successful injection of malicious code
+
+
+Solution Code = 3');alert('1)

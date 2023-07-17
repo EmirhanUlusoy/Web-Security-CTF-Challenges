@@ -1,0 +1,4 @@
+Yes, as seen in the code, the ( symbol is being blocked, so to bypass it, we are leveraging ASCII and converting the code. 
+In ASCII, its equivalent is &#40; . When we try this in the code, it works. The reason we use <svg> is to execute the JavaScript code.
+
+Solution Code= <svg><script>alert&#40;1)</script>

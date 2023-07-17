@@ -1,0 +1,4 @@
+In this section, there is a character restriction, and we need to bypass it to proceed. 
+Therefore, we need to introduce src=#" to overcome the restriction, and then we can reach the solution.
+
+Solution Code= "><img src=#"onerror='/*#*/alert(1)'

@@ -1,0 +1,3 @@
+Very simple solutions
+
+Solution Code= alert(1)

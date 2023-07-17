@@ -1,0 +1,1 @@
+Solution Code = #data:text/plain,alert(1)

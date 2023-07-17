@@ -1,0 +1,5 @@
+In this section, we were able to perform HTML injection by using the <h1> tag. 
+That's why it's called HTML injection. We observed that we could use the <img> tag, and we successfully injected our code.
+
+
+Solution Code= <img src=x onerror=alert(1)>

@@ -1,0 +1,4 @@
+The reason we put "> is that when we examine the source, we see that we need to remove the value="" portion within the value attribute. 
+After that, we inject our malicious code.
+
+Solution Code= "><script>alert(document.domain)</script>

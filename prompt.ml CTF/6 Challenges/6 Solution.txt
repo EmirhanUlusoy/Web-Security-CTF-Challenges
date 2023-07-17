@@ -1,0 +1,4 @@
+The crucial aspect here is to read the code above, where document.write("action forbidden") is written. 
+Based on this, we add an action, and the result is successful.
+
+Solution Code= javascript:alert(1)#{"action":1}

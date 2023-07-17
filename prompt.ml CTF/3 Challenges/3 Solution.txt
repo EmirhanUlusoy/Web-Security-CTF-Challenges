@@ -1,0 +1,4 @@
+In this CTF (Capture The Flag) challenge, no matter what we write, it gets treated as a comment and ignored.
+To bypass this, we use --!> after writing our code, and then we inject our code. It's as simple as that.
+
+Solutions Code= --!><svg/onload=alert(1)

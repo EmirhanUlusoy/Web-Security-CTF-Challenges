@@ -1,0 +1,4 @@
+In this section, they have blacklisted tags such as <, >, /, &, making it impossible for us to use tags like <script>. 
+Instead, we try techniques like onmouseover, and the result is successful.
+
+Solition Code= hi" onmouseover="alert(document.domain);

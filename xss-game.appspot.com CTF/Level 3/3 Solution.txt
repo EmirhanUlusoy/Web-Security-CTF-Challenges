@@ -1,0 +1,4 @@
+When examining the code, we noticed the line window.location.hash = num, which can be susceptible to injection. 
+Initially, we tried injecting the <script> tag into the URL, but it didn't work. Instead, we attempted injecting onerror without using scripts, and it was successful.
+
+Solution Code= 'onerror="alert(1)"

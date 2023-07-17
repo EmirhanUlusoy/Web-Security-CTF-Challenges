@@ -1,0 +1,5 @@
+In this case, what we need to do is call the alert() command and escape from console.log by adding "); and closing the </script> tag.
+This allows us to find a solution.
+
+
+Solution Code = ");</script><script>alert(1)</script>

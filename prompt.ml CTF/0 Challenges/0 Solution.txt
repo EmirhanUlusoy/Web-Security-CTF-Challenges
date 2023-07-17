@@ -1,0 +1,4 @@
+What we're doing here is looking at the source code. As you can see below, the value is trapped inside. 
+After using the ">" command, we are able to break out of the value and now we can add our malicious code.
+
+Solution Code= "><script>alert</script>

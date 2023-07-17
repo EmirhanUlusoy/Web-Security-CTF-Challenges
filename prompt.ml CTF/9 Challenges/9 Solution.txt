@@ -1,0 +1,5 @@
+The solution here is slightly different. The key point to note is that uppercase letters are used in the code above, indicating something that should not be used. 
+Therefore, bypassing this requires a different approach. 
+We can bypass it using a ? symbol, which prevents triggering an error. XSS is not present in this case.
+
+Solution Code= <?cript/?alert(1)</?cript>

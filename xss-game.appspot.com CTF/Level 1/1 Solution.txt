@@ -1,0 +1,3 @@
+In this section, we injected a JavaScript command and the result was successful.
+
+Solution Code= <script>alert(1)</script>
